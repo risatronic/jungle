@@ -15,3 +15,8 @@ body {
 form.button_to {
   display: inline;
 }
+
+.no-lines:link {
+  text-decoration: none;
+  color: inherit;
+}
